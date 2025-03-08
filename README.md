@@ -1,16 +1,17 @@
-# todoapp
+Simple To-Do App ✅
+A minimalistic to-do app built with Flutter, allowing users to efficiently manage their daily tasks with a straightforward interface.
 
-A new Flutter project.
+Features 🚀
+✅ Add new tasks
+✅ Check off completed tasks
+✅ Delete tasks by long pressing
+✅ Simple and intuitive UI
 
-## Getting Started
+Tech Stack 🛠️
+Frontend: Flutter (Dart)
+Backend: N/A (Local storage or state management)
+Screenshots 📸
+(Add images here)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Status 📌
+🟢 Completed – Fully functional and ready for use
